@@ -1,0 +1,38 @@
+id: I3EBBB608
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T08:40:59.743931'
+last_modified: '2022-06-19T08:40:59.743942'
+parser: null
+source_metadata:
+  title: Hagiography of the 51st Ngor abbot rNal byor Jam dpal bzang po bkra shis
+    grags pai rgyal mtshan (1789–1864); Lamdre Lobshe, vol. ja, title no. 3
+  author: བྱམས་པ་ཀུན་དགའ་བསྟན་པའི་རྒྱལ་མཚན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-09-05);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/580
+  bases:
+    49e3:
+      title: Hagiography of the 51st Ngor abbot rNal byor Jam dpal bzang po bkra shis
+        grags pai rgyal mtshan (1789–1864); Lamdre Lobshe, vol. ja, title no. 3
+      order: 1
+      base_file: 49e3.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
